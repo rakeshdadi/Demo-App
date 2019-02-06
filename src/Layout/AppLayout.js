@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link } from "react-router-dom";
 import { Layout, Icon } from 'antd';
-import '../App.css';
 
 const { Header, Footer, Content } = Layout;
 
